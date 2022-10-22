@@ -1,3 +1,0 @@
-<?
-	echo "que tal todo";
-?>
